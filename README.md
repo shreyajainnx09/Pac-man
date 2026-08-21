@@ -2,7 +2,13 @@
 
 ## Description
 A classic Pac-Man clone built from scratch in Python using Pygame. Navigate a hand-crafted 19x21 maze, eat every dot to win, and avoid four ghosts that chase you with a mix of pathfinding and randomness.
+
+
 <img width="456" height="594" alt="Screenshot 2026-08-21 at 10 47 10 PM" src="https://github.com/user-attachments/assets/e21e7870-f07d-4f4a-979b-a0fce0dedb2e" />
+
+
+
+
 
 ## Features
 - Fully custom maze layout (walls, dots, and a ghost-house area)
