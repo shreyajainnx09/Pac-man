@@ -14,7 +14,8 @@
 
 A classic **Pac-Man** clone built from scratch in Python using Pygame. Navigate a hand-crafted 19×21 maze, eat every dot to win, and avoid four ghosts that chase you using a mix of pathfinding and randomness — arrow keys only.
 
-![Pac-Man gameplay screenshot](./screenshot.png)
+![Pac-Man gameplay screenshot](<img width="456" height="594" alt="screenshot" src="https://github.com/user-attachments/assets/7105565c-44ae-4a19-8092-26958cb47f5f" />
+)
 
 ## 🎯 Features
 
