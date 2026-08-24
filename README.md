@@ -3,8 +3,7 @@
 # 👻 Pac-Man Clone
 ### A classic Pac-Man clone built from scratch in Python & Pygame
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
+<img width="456" height="594" alt="Screenshot 2026-08-21 at 10 47 10 PM" src="https://github.com/user-attachments/assets/69819344-e711-4acc-94d8-3dbddd29a5b6" />
 
 </div>
 
